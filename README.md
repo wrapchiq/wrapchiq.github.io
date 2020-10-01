@@ -1,2 +1,3 @@
 # wrapchiq.github.io
-Website for WrapChiQ
+
+• Website for WrapChiQ
