@@ -2,8 +2,7 @@ title: WrapChiQ®
 owner: n00kl33r
 email:
 description: Website for shop!
-baseurl: /
-url: / # the base hostname & protocol for your site, e.g. http://example.com
+url: https://wrapchiq.github.io # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:
